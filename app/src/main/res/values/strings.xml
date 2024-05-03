@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Checkbox</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Menu_Description">Menu Description</string>
+    <string name="Menu_Decrement_Button">Increment</string>
+    <string name="Menu_Increment_Button">Increment</string>
+    <string name="breakfastMenu">Menu Breakfast</string>
+    <string name="resetBreakfastMenu">Reset Breakfast Menu</string>
+    <string name="home">Home Button</string>
+
+    <!--<string name="fruit">Fruit</string>
+    <string name="dinners">Dinners</string>-->
+
+    <string-array name="fruit_items">
+        <item>Apply</item>
+        <item>Banana</item>
+        <item>Cup Of Cherry</item>
+       <!-- <item>Peach</item>
+        <item>Pear</item>-->
+    </string-array>
+
+    <string-array name="dinner_items">
+        <item>Chicken Dinner</item>
+        <item>Fish Dinner</item>
+        <item>Fried Chicken Dinner</item>
+        <!--<item>Pork Chop Dinner</item>
+        <item>Ham Dinner</item>-->
+    </string-array>
+
+
+</resources>
